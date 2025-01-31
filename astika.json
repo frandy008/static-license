@@ -1,4 +1,4 @@
 {
-  status : active,
-  valid : forever
+  "status" : "active",
+  "valid" : "forever"
 }
